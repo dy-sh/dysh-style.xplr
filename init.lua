@@ -37,7 +37,7 @@ function setup()
 	--
 	xplr.config.node_types.directory.meta.icon = blue(" ")
 	xplr.config.node_types.directory.style = { fg = "Blue" }
-	xplr.config.node_types.file.meta.icon = " "
+	xplr.config.node_types.file.meta.icon = ""
 	xplr.config.node_types.extension = {
 		aac = { meta = { icon = cyan(" ") } },
 		aif = { meta = { icon = cyan(" ") } },
