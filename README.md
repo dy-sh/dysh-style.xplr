@@ -23,3 +23,9 @@ It adds the following things:
 
 Use [xplr plugin manager](https://github.com/dtomvan/xpm.xplr/).
 
+
+## In addition
+
+To make the interface cleaner and more pleasant, I can also recommend the following plugins:
+- [get-rid-of-index.xplr](https://github.com/dy-sh/get-rid-of-index.xplr)
+- [one-table-column.xplr](https://github.com/duganchen/one-table-column.xplr)
